@@ -15,7 +15,7 @@ copy files from the cloned repo into applet directory.
 $ cd files
 
 # dest is the applet directory
-$ cp sysmon@rohan ~/.local/share/cinnamon/applets
+$ cp sysmon@rohan ~/.local/share/cinnamon/applets -r
 ```
 
 ### screenshots
